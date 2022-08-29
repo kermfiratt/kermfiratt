@@ -1,7 +1,8 @@
-###👋 Hi, I’m kermfiratt
+### Hi, I'm keremfiratt 
+<br/>
 
-<br>
+<img src="https://github.com/keremfiratt/keremfiratt/blob/main/baby-yoda-welcome.gif" width="auto">
 
-<img src="<div class="tenor-gif-embed" data-postid="22416975" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/baby-yoda-welcome-gif-22416975">Baby Yoda Welcome GIF</a>from <a href="https://tenor.com/search/baby+yoda+welcome-gifs">Baby Yoda Welcome GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> width="auto">
+<br/>
 
-<br>
+![baby-yoda-welcome](https://user-images.githubusercontent.com/112391450/187200334-bff9939c-e99e-428d-9167-5a97f6f4517b.gif)
