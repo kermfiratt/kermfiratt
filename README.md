@@ -10,6 +10,6 @@
 
   <br/>
 
-<h2> You can reach me from "firat.keremhamza@student.atilim.edu.tr"<h2/>
+<h2> You can reach me from "keremfiratt49@gmail.com"<h2/>
  
   
