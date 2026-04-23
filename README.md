@@ -10,6 +10,6 @@
 
   <br/>
 
-<h2> You can reach me from "keremfiratt49@gmail.com"<h2/>
+<h2> You can reach me from "k.hamzafirat@gmail.com"<h2/>
  
   
