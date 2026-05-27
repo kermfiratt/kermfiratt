@@ -2,7 +2,7 @@
  
  
  <h1> Hi, I'm kermfiratt <h1/> 
- <h2> I don't share open source, but feel free to reach out for my fintech projects. </h2>
+
 
   
   <br/>
